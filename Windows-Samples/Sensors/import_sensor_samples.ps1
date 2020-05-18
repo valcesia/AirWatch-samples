@@ -18,12 +18,12 @@
   .EXAMPLE
 
     .\import_sensor_samples.ps1 `
-        -WorkspaceONEServer "https://as###.awmdm.com" `
-        -WorkspaceONEAdmin "administrator" `
-        -WorkspaceONEAdminPW "P@ssw0rd" `
-        -WorkspaceONEAPIKey "7t5NQg8bGUQdRTGtmDBXknho9Bu9W+7hnvYGzyCAP+E=" `
-        -OrganizationGroupName "techzone" `
-        -SmartGroupID "41"
+        -WorkspaceONEServer "https://as258.awmdm.com" `
+        -WorkspaceONEAdmin "vmware_powershell" `
+        -WorkspaceONEAdminPW "VMware1!" `
+        -WorkspaceONEAPIKey "b0FJsZOpgHEDmzkSUL5JA14aqu+c7+qd3+N5Fjd8IKE=" `
+        -OrganizationGroupName "M2095019" `
+        -SmartGroupID "18665"
         -UpdateSensors
 
     .PARAMETER WorkspaceONEServer
